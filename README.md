@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there It's Jihyo👋
+
+🌱 Studying *Management of Technology* and *Computer Science* at Konkuk University in South Korea
+🔭 Working on Android app projects
+
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ksh04023&show_icons=true)
 <!--
 **ksh04023/ksh04023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
