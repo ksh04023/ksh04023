@@ -1,6 +1,6 @@
 ### Hi there It's Jihyo👋
 
-🌱 Studying *Management of Technology* and *Computer Science* at Konkuk University in South Korea
+🌱 Studying *Management of Technology* and *Computer Science* at Konkuk University in South Korea\
 🔭 Working on Android app projects
 
 
