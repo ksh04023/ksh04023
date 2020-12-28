@@ -1,7 +1,7 @@
 ### Hi there It's Jihyo👋
 
 🌱 Studying *Management of Technology* and *Computer Science* at Konkuk University in South Korea\
-🔭 Working on Android app projects
+🔭 Working on Android app projects\
 ⚡ Blog: ksh04023.github.io
 
 
