@@ -2,7 +2,7 @@
 
 🌱 Studying *Management of Technology* and *Computer Science* at Konkuk University in South Korea\
 🔭 Working on Android app projects\
-⚡ Blog: ksh04023.github.io
+⚡ Blog: https://ksh04023.github.io
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ksh04023&show_icons=true)
